@@ -1,3 +1,3 @@
 # Robofriends
 
-A React application where I explore creating components and let the user search up a robot by their name. 
+A React application that allows the user to search a robot by their name. Please view Github pages for the live demo! 
